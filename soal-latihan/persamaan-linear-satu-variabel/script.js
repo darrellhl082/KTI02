@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    x1 = ` jdkjdjkew`;
+    x1 = ` ini nomor 1`;
     $('.x1').html(x1);
     ans1 = `bismillah`;
     $('#ans1').html(ans1);
